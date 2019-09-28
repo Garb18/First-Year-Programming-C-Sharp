@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/AnglerFish_Lit.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/AnglerFish_Unlit.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/AquariumBackground.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Background.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Blue_Fish.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/bubble.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/ChickenLeg.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/DRUM_Blue.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/DRUM_Red.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Foreground_Rocks.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/ForegroundSand.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Midground_Rocks.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/OrangeFish.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Piranha1.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Piranha2.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Seahorse.png</File>
+    <File>D:/Users/Ben/Desktop/Uni Backup/COMP1347 Assignment 2/Programming Assignment 2/FishORama/FishORama/Content/Images/Urchin.png</File>
+  </SourceFiles>
+</SourceFileCollection>
